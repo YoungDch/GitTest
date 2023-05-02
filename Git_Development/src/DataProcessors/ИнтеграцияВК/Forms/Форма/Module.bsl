@@ -1,5 +1,4 @@
 
-//@skip-check module-structure-method-in-regions
 &НаКлиенте
 Процедура ТестированиеГИта(Команда)
 
